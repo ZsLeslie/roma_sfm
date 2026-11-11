@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.engine
+
+# Runtime outputs
+outputs/
+results/
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
