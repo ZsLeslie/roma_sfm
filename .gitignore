@@ -28,3 +28,7 @@ logs/
 
 # System
 .DS_Store
+nohup.out
+
+# Test
+check_model_overlap.py
